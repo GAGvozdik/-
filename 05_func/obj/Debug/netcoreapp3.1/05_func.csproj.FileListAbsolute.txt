@@ -1,0 +1,13 @@
+C:\Users\fenik\Desktop\завьялов лекции шарпы\проги\05_func\05_func\obj\Debug\netcoreapp3.1\05_func.csprojAssemblyReference.cache
+C:\Users\fenik\Desktop\завьялов лекции шарпы\проги\05_func\05_func\obj\Debug\netcoreapp3.1\05_func.AssemblyInfoInputs.cache
+C:\Users\fenik\Desktop\завьялов лекции шарпы\проги\05_func\05_func\obj\Debug\netcoreapp3.1\05_func.AssemblyInfo.cs
+C:\Users\fenik\Desktop\завьялов лекции шарпы\проги\05_func\05_func\obj\Debug\netcoreapp3.1\05_func.csproj.CoreCompileInputs.cache
+C:\Users\fenik\Desktop\завьялов лекции шарпы\проги\05_func\05_func\bin\Debug\netcoreapp3.1\05_func.exe
+C:\Users\fenik\Desktop\завьялов лекции шарпы\проги\05_func\05_func\bin\Debug\netcoreapp3.1\05_func.deps.json
+C:\Users\fenik\Desktop\завьялов лекции шарпы\проги\05_func\05_func\bin\Debug\netcoreapp3.1\05_func.runtimeconfig.json
+C:\Users\fenik\Desktop\завьялов лекции шарпы\проги\05_func\05_func\bin\Debug\netcoreapp3.1\05_func.runtimeconfig.dev.json
+C:\Users\fenik\Desktop\завьялов лекции шарпы\проги\05_func\05_func\bin\Debug\netcoreapp3.1\05_func.dll
+C:\Users\fenik\Desktop\завьялов лекции шарпы\проги\05_func\05_func\bin\Debug\netcoreapp3.1\05_func.pdb
+C:\Users\fenik\Desktop\завьялов лекции шарпы\проги\05_func\05_func\obj\Debug\netcoreapp3.1\05_func.dll
+C:\Users\fenik\Desktop\завьялов лекции шарпы\проги\05_func\05_func\obj\Debug\netcoreapp3.1\05_func.pdb
+C:\Users\fenik\Desktop\завьялов лекции шарпы\проги\05_func\05_func\obj\Debug\netcoreapp3.1\05_func.genruntimeconfig.cache
